@@ -1,7 +1,7 @@
 # USO-class-homework
 Am lucrat la 2 proiecte pentru cursul de Utilizarea Sistemelor de Operare. Ambele au fost realizate codand in C. Ele sunt aplicatii de terminal.
 
-## Primul proiect
+## Este contiguu (primul proiect)
 Codul verifica daca un fisier este contiguu altuia. Altfel spus, verifca daca continutul primului se regaseste in al doilea si de cate ori o face. Pentru a face acest lucru, codul compara caracter cu caracter continutul fisierelor pana gaseste ceva care se verifica.
 
 Drept exemplu, daca in fisierul din care caut contine "ab" si cel in care caut contine "caabab", comparatile efectuate de cod sunt:
@@ -19,3 +19,6 @@ Aplicatia se apeleaza in felul urmator:
 ```  
 $contiguu fisier_cu_textul_cautat fisier_in_care_doresc_sa_gasesc_textul
 ```
+
+## Terminal personal
+Codul emuleaza comportamentul unui terminal cu un while loop infinit si niste apeluri de sistem. Pentru a opri rularea se iese cu aceeasi comanda cu care ai iesi dintr-un terminal obisnuit: exit. Functioneaza toate comenzile de pe PATH precum ls, cd, rm sau orice altceva este pus acolo, de tine sau de sistem.
