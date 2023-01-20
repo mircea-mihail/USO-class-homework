@@ -1,5 +1,5 @@
 # USO-class-homework
-Am lucrat la 2 proiecte pentru cursul de Utilizarea Sistemelor de Operare. Ambele au fost realizate codand in C. Ele sunt aplicatii de terminal.
+Pentru cursul de Utilizarea Sistemelor de Operare am realizat 2 aplicatii de terminal. Ambele au fost realizate in C.
 
 ## Este contiguu (primul proiect)
 Codul verifica daca un fisier este contiguu altuia. Altfel spus, verifca daca continutul primului se regaseste in al doilea si de cate ori o face. Pentru a face acest lucru, codul compara caracter cu caracter continutul fisierelor pana gaseste ceva care se verifica.
